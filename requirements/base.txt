@@ -24,7 +24,7 @@ django-q==1.0.2
 dnspython==1.16.0
 pytesseract==0.2.7
 python-nmap==0.6.1
-python-docx==0.8.7
+python-docx==0.8.10
 python-pptx==0.6.18
 redis==3.2.1
 requests==2.22.0
